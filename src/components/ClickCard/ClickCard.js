@@ -15,7 +15,4 @@ function ClickCard(props) {
 	)
 }
 
-
-
-
 export default ClickCard

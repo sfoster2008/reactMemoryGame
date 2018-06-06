@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Navbar from './components/Navbar/Navbar.js';
-import Modal from './components/Modal/Modal.js';
+import Navbar from './components/navbar/Navbar.js';
+import Modal from './components/modal/Modal.js';
 import ClickCard from './components/ClickCard/ClickCard.js';
-import Footer from './components/Footer/Footer.js';
+import Footer from './components/footer/footer.js';
 import cards from './cards.json';
 
 import './index.css';
