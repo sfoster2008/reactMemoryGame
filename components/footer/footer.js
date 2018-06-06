@@ -12,7 +12,7 @@ function Footer(props) {
       </div>
       <div className="footer-copyright">
         <div className="container center">
-        © 2017 Fred Lintz
+        © 2018 Steve Foster
         </div>
       </div>
     </footer>
